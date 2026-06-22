@@ -30,7 +30,7 @@ I enjoy thinking beyond UI — into system design, reliability, and long-term ma
 
 - 📧 Email: ali.naseri07@gmail.com
 - 🌐 Website: https://alinaseri.dev
-- 💼 LinkedIn: linkedin.com/in/aliviohi
+- 💼 LinkedIn: https://linkedin.com/in/aliviohi
 
 ---
 
